@@ -1,0 +1,2 @@
+table	alias	key	title	plural	report	read	insert	update	delete	search	index	class
+task	task	task_id	Task	Tasks	table	3	3	3	3	member_id	Modules::CRM::Task

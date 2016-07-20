@@ -1,0 +1,3 @@
+type	tag	regexp
+list:task_status	radio	incomplete|complete
+list:task_type	select	note|task
