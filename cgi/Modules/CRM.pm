@@ -897,6 +897,7 @@ sub reset_link {
     my $uri  = new ExSite::URI;
     $uri->setup($base);
     $uri->query(%query);
+    # added a comment
     return $uri->write();
 }
 
