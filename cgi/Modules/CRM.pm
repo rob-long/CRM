@@ -908,4 +908,8 @@ sub CRM_js {
     }
 }
 
+sub some_stuff {
+    my $this = shift;
+}
+
 1;
